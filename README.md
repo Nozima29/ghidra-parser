@@ -1,4 +1,4 @@
-### Ghidra script for binary auto-analysis
+### Ghidra disassembly script for binary auto-analysis
 
 #### How to run
 
