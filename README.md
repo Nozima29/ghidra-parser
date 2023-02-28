@@ -5,7 +5,7 @@
         python run.py
 
 #### Outputs are stored in src/outputs folder in following format 
-#### (func name/instruction):
+(func_name \t instruction):
 
 
         get_sigName	    adrp_x0_0x423000, add_x0_x0_0x1a8, ret
