@@ -89,7 +89,7 @@ class GhidraAPI:
         
 if __name__ == '__main__':        
     api = GhidraAPI()
-    api.save_bin_info(out_dir='./outputs')
+    api.save_bin_info(out_dir='./src/outputs')
     
     
     
